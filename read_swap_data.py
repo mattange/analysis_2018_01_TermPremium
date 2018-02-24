@@ -10,7 +10,7 @@ import pandas as pd
 import numpy as np
 
 
-filename = '/home/mattange/Documents/Python/SwapData/RawData.xlsx'
+filename = '/home/mattange/Documents/Python/analysis/analysis_2018_01_TermPremium/RawData.xlsx'
 header = 0
 skiprows = [1,2,3]
 sheet_name = ['US','EU','JP','GB','CA','CH','AU','NZ','SE','CB_US','CB_EU','CB_JP','CB_GB','CB_CA','CB_CH','CB_CN','FX']
